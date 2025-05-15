@@ -13,11 +13,4 @@ Widget pageLoader() {
       ),
     ),
   );
-
-  //  const Center(child: SpinKitChasingDots(color: Colors.white)
-  //     // CupertinoActivityIndicator(
-  //     //   radius: 20.0,
-  //     //   color: Colors.white,
-  //     // ),
-  //     );
 }
